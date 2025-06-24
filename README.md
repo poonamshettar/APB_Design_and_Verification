@@ -10,5 +10,4 @@ The project covers:
 
 - RTL design of APB master and slave modules
 - A Universal Verification Methodology (UVM) environment
-- Functional coverage and assertion-based verification
 - Various test scenarios including read, write, burst, and error handling
